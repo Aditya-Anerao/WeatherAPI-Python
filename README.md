@@ -4,7 +4,7 @@ Python program to retrieve 5-day temperature forecast from Open Weather API
 Python Assignment #1<br/>
 Professor Christopher Healey<br/>
 Institute for Advanced Analytics, North Carolina State University<br/>
-https://www.csc2.ncsu.edu/faculty/healey/msa/python/assn-openweathermap/
+https://www.csc2.ncsu.edu/faculty/healey/msa/python/assn-openweathermap/<br/>
 August 31, 2021<br/>
 **Code Author:** Aditya Anerao
 
