@@ -1,4 +1,4 @@
-# WeatherAPI-Python
+# Open Weather Map Temperature Forcast
 Python program to retrieve 5-day temperature forecast from Open Weather API
 
 Python Assignment #1<br/>
